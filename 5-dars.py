@@ -13,3 +13,7 @@
 # fullname = "ali"
 # fullname = f"{fullname} axmedov"
 # print(fullname)
+#4-usul
+# fullname = "ali"
+# fullname = fullname.join("axmedov")
+# print(fullname)
